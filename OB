@@ -1,0 +1,36 @@
+[33mcommit de4fda90c141fe363b441aa763ac04dc0c6dd641[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: TomasVil12 <tomasxvilla@gmail.com>
+Date:   Tue Apr 8 18:49:52 2025 -0500
+
+    Creacion de parrafo. y colocacion del año 2025
+
+[33mcommit 7bf169869430dabac5b8eda1a1aaae59ecddc132[m
+Merge: d5a157d 9462b71
+Author: TomasVil12 <tomasxvilla@gmail.com>
+Date:   Tue Apr 8 18:44:59 2025 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit 9462b71ab7267c68fd258a6222f36c2b4c72e9ef[m
+Author: TomasVil12 <tomasxvilla@gmail.com>
+Date:   Tue Apr 8 18:40:22 2025 -0500
+
+    Actualizao pie de pagina
+
+[33mcommit d5a157d2b246942803343ed784d367cab84e4583[m
+Author: TomasVil12 <tomasxvilla@gmail.com>
+Date:   Tue Apr 8 18:38:35 2025 -0500
+
+    Actualizao el titulo
+
+[33mcommit 04c6e36196fbb59fbf478728e2366f6db23c403c[m
+Author: TomasVil12 <tomasxvilla@gmail.com>
+Date:   Tue Apr 8 18:32:53 2025 -0500
+
+    Adicion css
+
+[33mcommit 2fea5f498cc9ae0ddefab3873a3b1184c1aafe16[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: TomasVil12 <tomasxvilla@gmail.com>
+Date:   Fri Apr 4 16:30:31 2025 -0500
+
+    primer commit
